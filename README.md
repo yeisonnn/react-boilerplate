@@ -11,6 +11,7 @@ This project contains the basic configuration to start any react project. All ex
 - Clone this repository on your local machine.
 - On your terminal type **npm install**.
 - type **npm start**.
+- git remote rm origin.
 - Create components in the `component folder`.
 - Use components in App.js file.
 
