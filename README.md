@@ -8,7 +8,7 @@ This project contains the basic configuration to start any react project. All ex
 
 ### `How to start`
 
-- Clone this repository on your local machine.
+- Fork this repository on your local machine.
 - On your terminal type **npm install**.
 - type **npm start**.
 - git remote rm origin.
