@@ -6,9 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project contains the basic configuration to start any react project. All extra files were removed. The initial setup will only display **Hello World** in your browser on localhost:3000.
 
-### `How to start`
+## How to start
 
-- Fork this repository on your local machine.
+### `best option`
+
+- Download the zip
+
+### `Fork`
+- Fork this repository on your repository.
 - On your terminal type **npm install**.
 - type **npm start**.
 - git remote rm origin.
